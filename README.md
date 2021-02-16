@@ -8,13 +8,6 @@
 - 🔭 I’m currently working on Agency for Defense Development [(ADD)](https://www.add.re.kr/eps)
 - 🌱 I’m currently studying navigation, deep learning, control and path planning
 
-### Interest
-- Autonomous Vehicle
-- Mobile Robotics
-- Robot Navigation
-- Deep learning
-- ROS
-
 <div align=center>
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ktk1501)](https://www.facebook.com/ktk1501) 
