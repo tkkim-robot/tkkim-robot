@@ -1,26 +1,19 @@
-### Hi there 👋
-
 <div align=center>
-
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-
-Autonomous driving researcher in South Korea
-
-- 🔭 I’m currently working on Agency for Defense Development [(ADD)](https://www.add.re.kr/eps)
-- 🌱 I’m currently studying navigation, deep learning, control and path planning
-- 📫 How to reach me: ktk1501@kakao.com
 
 </div>
 
-### Autonomous Driving Researcher
-- Machine Learing Engineer in Trasportation industry(Mobility - Car Sharing, Ride Hailing)
-- I organize a group of developers who write blog posts - 글쓰는 개발자 모임, [글또](https://bit.ly/geultto)
+### Autonomous Driving Researcher in South Korea
+- 🔭 I’m currently working on Agency for Defense Development [(ADD)](https://www.add.re.kr/eps)
+- 🌱 I’m currently studying navigation, deep learning, control and path planning
 
 ### Interest
-- MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
-- Google Cloud Platform(Especially, BigQuery)
-- Operation Research
-- Leadership, Mentoring, Writing, Presentation
+- Autonomous Vehicle
+- Mobile Robotics
+- Robot Navigation
+- Deep learning
+- ROS
 
 <div align=center>
 
