@@ -6,7 +6,7 @@
 
 ### Robotics Researcher in South Korea
 - 🔭 I’m currently working at Agency for Defense Development [(ADD)](https://www.add.re.kr/eps)
-- 🌱 I’m currently studying navigation, deep learning, control and path planning
+- 🌱 I’m currently studying learning-based control, reinforcement learning and robot system.
 
 <div align=center>
 
