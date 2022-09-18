@@ -6,7 +6,8 @@
 
 ### Robotics Researcher in South Korea
 - 🔭 I’m currently working at Agency for Defense Development [(ADD)](https://www.add.re.kr/eps)
-- 🌱 I’m currently studying learning-based control, reinforcement learning and robot system.
+- 🌱 I’m currently studying learning-based control, model-based reinforcement learning, and robot systems.
+- 🏠 Check out my [__personal homepage__](https://tk-kim.oopy.io) for further information!
 
 <div align=center>
 
