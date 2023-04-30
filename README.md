@@ -4,9 +4,9 @@
 
 </div>
 
-### Robotics Researcher in South Korea
-- 🔭 I’m currently working at Agency for Defense Development [(ADD)](https://www.add.re.kr/eps)
-- 🌱 I’m currently studying learning-based control, model-based reinforcement learning, and robot systems.
+### PhD-ing in Robotics @ Michigan
+- 🔭 I’m currently a Robotics PhD student at the University of Michigan, Ann Arbor.
+- 🌱 My reseasrch interests lie in learning for robot dynamics and control, reinforcement learning, and sim-to-real transfer.
 - 🏠 Check out my [__personal homepage__](https://taekyung.me) for further information!
 
 <div align=center>
