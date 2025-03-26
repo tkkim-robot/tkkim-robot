@@ -8,5 +8,4 @@
 <div align=center>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/taekyung-kim-5201a817a)](http://linkedin.com/in/taekyung-kim-5201a817a) 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ktk1501)](https://www.facebook.com/ktk1501) 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/ktk1501)](https://www.youtube.com/ktk1501) 
